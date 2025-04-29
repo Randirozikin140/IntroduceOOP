@@ -2,7 +2,12 @@
 using namespace std;
 
 //Membuat program class mahasiswa
-class mahasiswa{};
+class mahasiswa{
+    public :
+    
+
+
+};
 int main(){
 
 }
