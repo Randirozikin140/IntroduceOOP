@@ -2,7 +2,7 @@
 using namespace std;
 
 //Membuat program class mahasiswa
-class mahasiswa{
+class Mahasiswa{
     public :
     int nim;
     string nama;
@@ -16,7 +16,9 @@ class mahasiswa{
 
 };
 int main(){
-    mahasiswa mhs;
-   
+    Mahasiswa mhs;
+    mhs.nim = 2024;
+    mhs.nama = "abra";
+    mhs.nilai = 85.0;
 }
     
